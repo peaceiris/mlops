@@ -1,2 +1,1 @@
-# mlops
-MLOps and DevOps Playground
+## MLOps and DevOps Playground
